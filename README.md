@@ -13,13 +13,6 @@
 
 ---
 
-### 📚 Github Stats:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sparda9723&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sparda9723&&theme=gruvbox&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 <div align="center">
   <img alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/csharp/csharp-original.svg">
   <img alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cplusplus/cplusplus-original.svg">
