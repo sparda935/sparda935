@@ -1,6 +1,6 @@
 # 👾 sparda9723
 ![2025-05-21_17-49](https://github.com/user-attachments/assets/0e67cdd8-fe22-43e8-aca5-c90df792fef5)
-
+<!--
 | Projeto | Descrição |
 |--------|-----------|
 | [`localstorage`](https://github.com/sparda9723/localstorage) | Lib header-only em C++ para persistência simples (tipo localStorage, sem SQLite). |
@@ -13,7 +13,7 @@
 | [`Logic2000++`](https://github.com/sparda9723/Logic2000-) | Parser e avaliador de expressões lógicas proposicionais em C++. |
 
 ---
-<!--
+!-->
 
 <div align="center">
   <img alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/csharp/csharp-original.svg">
@@ -26,4 +26,4 @@
   <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
---!>
+
