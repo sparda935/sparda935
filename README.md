@@ -13,7 +13,7 @@
 | [`Logic2000++`](https://github.com/sparda9723/Logic2000-) | Parser e avaliador de expressões lógicas proposicionais em C++. |
 
 ---
-
+<!--
 
 <div align="center">
   <img alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/csharp/csharp-original.svg">
@@ -26,3 +26,4 @@
   <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+--!>
